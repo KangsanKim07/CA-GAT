@@ -1,5 +1,8 @@
 # CA-GAT : Closeness Aware Graph Attention Network
 2021 Spring &lt;CS492:Graph Machine Learning and Mining> Final Individual Project </br>
+**Best Project Award** </br>
+
+
 Implementation of Closeness Aware Graph Attention Network (CA-GAT) </br>
 Base code from [@dongkwan-kim/SuperGAT](https://github.com/dongkwan-kim/SuperGAT/tree/20d0e9729c47c03a94937e199b150b713256bc9d) 
 (I edited [SuperGAT/SuperGAT/layer.py](https://github.com/dongkwan-kim/SuperGAT/blob/20d0e9729c47c03a94937e199b150b713256bc9d/SuperGAT/layer.py#L25)) </br>
