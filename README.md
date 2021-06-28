@@ -5,7 +5,7 @@
 
 Implementation of Closeness Aware Graph Attention Network (CA-GAT) </br>
 Base code from [@dongkwan-kim/SuperGAT](https://github.com/dongkwan-kim/SuperGAT/tree/20d0e9729c47c03a94937e199b150b713256bc9d) 
-(I edited [SuperGAT/SuperGAT/layer.py](https://github.com/dongkwan-kim/SuperGAT/blob/20d0e9729c47c03a94937e199b150b713256bc9d/SuperGAT/layer.py#L25)) </br>
+(I edited [SuperGAT/SuperGAT/layer.py](https://github.com/KangsanKim07/CA-GAT/blob/main/SuperGAT/layer.py)) </br>
 You can use [Google Colab](https://colab.research.google.com/drive/1dwsjzccGIltqVL1ykmDXrr1BBPDIPTJR?usp=sharing) </br>
 
 ## Introduction
