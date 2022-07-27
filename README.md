@@ -6,7 +6,7 @@
 Implementation of Closeness Aware Graph Attention Network (CA-GAT) </br>
 Base code from [@dongkwan-kim/SuperGAT](https://github.com/dongkwan-kim/SuperGAT/tree/20d0e9729c47c03a94937e199b150b713256bc9d) 
 (I edited [SuperGAT/layer.py](https://github.com/KangsanKim07/CA-GAT/blob/main/SuperGAT/layer.py)) </br>
-You can use [Google Colab](https://colab.research.google.com/drive/1dwsjzccGIltqVL1ykmDXrr1BBPDIPTJR?usp=sharing) </br>
+[Youtube Video](https://youtu.be/mzlcdxgNsQE)
 
 ## Introduction
 - Adjacent nodes are not always important, and 2-hop, 3-hop nodes can be important </br>
